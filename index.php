@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -53,7 +52,7 @@
         }
         
         .navbar-inner {
-    background:transparent;
+            background:transparent;
 }
         
         .navbar-brand, .navbar-brand:hover {
